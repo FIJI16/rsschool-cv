@@ -17,7 +17,7 @@
 
 ## Skills.
 
-### I have knowledge of *HTML, CSS, Bootsrap 3*. I have average knowledge of *Javascript* and continue to develop in this direction further. Basic knowledge of PHP, MySQL.
+### I have knowledge of *HTML, CSS, Bootsrap 3*. I have average knowledge of *Javascript* and continue to develop in this direction further. Basic knowledge of PHP, MySQL. Finished courses on Sololearn, FructCode etc. . 
 
 ## Examples of code:
 
@@ -32,6 +32,26 @@
 
   val = sec % 3600;
 ```
+
+Опыт работы. Junior Dev может указать пройденные курсы и тренинги, перечислить учебные проекты, или проекты, выполненные на фрилансе с указанием использованных навыков и ссылками на исходный код.
+
+## Education.
+
+### Dnipropetrovsk State University of Internal Affirs. *Law 081, Dnipro*
+
+## Courses
+
+### [HTML_CSS_Eng_FructCode.pdf](https://github.com/FIJI16/courses/files/7131955/HTML_CSS_Eng_FructCode.pdf)
+### [Js__JQuery_Eng_FructCode.pdf](https://github.com/FIJI16/courses/files/7131957/Js__JQuery_Eng_FructCode.pdf)
+### [Linux_Git_Hosting_Eng_FructCode.pdf](https://github.com/FIJI16/courses/files/7131958/Linux_Git_Hosting_Eng_FructCode.pdf)
+### [PHP_MySQL_Eng_FructCode.pdf](https://github.com/FIJI16/courses/files/7131959/PHP_MySQL_Eng_FructCode.pdf)
+### [Bootstrap3_Eng_FructCode.pdf](https://github.com/FIJI16/courses/files/7131961/Bootstrap3_Eng_FructCode.pdf)
+
+## English level B2 - Upper Intermediate
+
+### [EF SET Certificate.pdf](https://github.com/FIJI16/courses/files/7131954/EF.SET.Certificate.pdf)
+
+
 
 
 
