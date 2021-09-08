@@ -1,1 +1,0 @@
-https://FIJI16.github.io/rsschool-cv/cv
