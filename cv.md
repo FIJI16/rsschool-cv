@@ -48,10 +48,3 @@
 ## English level B2 - Upper Intermediate
 
 ### [EF SET Certificate.pdf](https://github.com/FIJI16/courses/files/7131954/EF.SET.Certificate.pdf)
-
-
-
-
-
-
-
