@@ -1,1 +1,1 @@
-https://FIJI16.github.io/rsschool-cv/cv
+https://FIJI16.github.io/rsschool-cv/
